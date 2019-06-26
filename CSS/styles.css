@@ -1,0 +1,25 @@
+/*The External CSS (CSX)*/
+
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-color: grey;
+  border-width: thick;
+  border-style: none none dotted none;
+  height: 0px;  /*required for border-less elements*/
+  width: 10%;  /*specifying width as a percentage of the window size (for proper scaling)*/
+}
+
+h1 {
+  color: #66BFBF
+}
+h2{
+  color: #66BFBF
+
+}
+h3{
+  color: #66BFBF
+
+}
